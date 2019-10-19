@@ -58,4 +58,7 @@ for client in clientMachines:
     else:
         pass
 
+    
+pprint.pprint(win7Machines)
+
 print(len(win7Machines))
