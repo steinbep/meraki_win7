@@ -9,10 +9,10 @@ import json, csv, pprint, time
 
 
 # Enter User's API Key
-apikey = '3b5c4d0c2eb2dd0388f5add825759d285043840f'
+apikey = 'XXXXXXXXXXXXXXXXXXXX'
 
 # Enter Organization ID Here
-organizationid = '133624'
+organizationid = 'XXXXXX'
 
 clientMachines = []
 win7Machines = []
